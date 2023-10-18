@@ -1,2 +1,2 @@
-# pweb-crud-image-upload
-Image Upload Web App with CRUD built using PHP Native
+# Web Project 
+SMK Telkom Malang
